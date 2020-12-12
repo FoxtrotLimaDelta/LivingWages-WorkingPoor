@@ -5,8 +5,8 @@ Issues:
   2. Finding research and data on: 
     a. spending of individuals at each income level (and all income levels?)
     b. change in spending when individuals move from living wages or more to working poor to non-working poor
-    c. 
-    d.
+    c. tbd
+    d. tbd
     
     
   3. Determining the areas of living impacted by income and vice versa to account for them in the study to the extent applicable
