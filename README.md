@@ -18,7 +18,7 @@ Issues:
     f. Dependence - 
     g. Resilience - 
 
-![WorkingInPoverty1_crpA](https://user-images.githubusercontent.com/61523717/104542941-b35ab180-55e1-11eb-9a8a-e4ee98a542d8.jpg)
+![Digging in deep Poverty hole(black&white)](https://user-images.githubusercontent.com/61523717/104542941-b35ab180-55e1-11eb-9a8a-e4ee98a542d8.jpg)
 
 Resources:
   1. APIs:
