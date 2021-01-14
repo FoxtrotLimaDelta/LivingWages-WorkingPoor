@@ -17,9 +17,8 @@ Issues:
     e. Interactions with law enforcement (peace officers?)
     f. Dependence - 
     g. Resilience - 
-    
-   <image src="Repo Images/WorkingInPoverty1.jpeg">
-    
+
+
 Resources:
   1. APIs:
   2. Research:
