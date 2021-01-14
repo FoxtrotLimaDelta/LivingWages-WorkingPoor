@@ -1,5 +1,5 @@
 # LivingWages-WorkingPoor
-Seeking data to determine the impact on the US economy and the bottom lines of corporations of every working adult receiving, at minimum, a, "Living Wage".
+Seeking data to determine the impact on the US economy and the bottom lines of corporations of every working adult receiving, at minimum, a "Living Wage".
 Issues: 
   1. Defining "Living Wages" by area and over time
   2. Finding research and data on: <br>
