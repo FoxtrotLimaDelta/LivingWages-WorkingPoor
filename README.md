@@ -2,7 +2,7 @@
 Seeking data to determine the impact on the US economy and the bottom lines of corporations of every working adult receiving, at minimum, a, "Living Wage".
 Issues: 
   1. Defining "Living Wages" by area and over time
-  2. Finding research and data on: 
+  2. Finding research and data on: <br>
     a. spending of individuals at each income level (and all income levels?)
     b. change in spending when individuals move from living wages or more to working poor to non-working poor
     c. determine the impact on US economy of all adult workers earning at least a living wage 
