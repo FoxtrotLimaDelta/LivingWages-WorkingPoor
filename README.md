@@ -18,7 +18,7 @@ Issues:
     f. Dependence - 
     g. Resilience - 
     
-    ![](Repo Images/WorkingInPoverty!)
+    ![](Repo-Images/WorkingInPoverty1.jpeg)
     
 Resources:
   1. APIs:
